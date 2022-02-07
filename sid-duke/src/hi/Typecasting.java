@@ -1,5 +1,5 @@
 package hi;
-
+// THIS PROGRAM IS ONLY FOR REFERENCE
 public class Typecasting {
 	//Dont run this program-just type and understanding how casting works
 	public static void main(String[] args) {
